@@ -1,5 +1,5 @@
 # IATI - Google Firestore Cloud Database
-Humanitarian AI community members are exploring setting up and storing a copy of IATI's entire corpus in a Google Cloud Firestore database.
+Humanitarian AI community members are exploring setting up and storing a copy of IATI's entire corpus in a Google Cloud **Firestore** database.
 
 ### IATI Data on Dropbox
 ![Organization Data Folders](https://github.com/Humanitarian-AI/IATI-XML-Dataset/blob/master/Media/IATI_Org_Folders.png)
