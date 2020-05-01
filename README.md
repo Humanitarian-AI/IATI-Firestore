@@ -1,2 +1,2 @@
-# IATI-Firestore
-IATI Google Cloud Firestore Database
+# IATI - Google Firestore Cloud Database
+Humanitarian AI community members are exploring storing a copy of IATI's entire corpus in a Google Cloudn Firestore database.
